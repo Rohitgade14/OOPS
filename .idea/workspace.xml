@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34b97cce-bbd4-4a5c-a1d9-59d8dae2c92f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/OOPS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin" beforeDir="false" afterPath="$PROJECT_DIR$/bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/OOPS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/exception/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/exception/ArrayOutOfBound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/exception/FileNotFound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/exception/FileReaderEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/exception/NullPointException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/exception/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/exception/custom/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/in.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/inner/Annonymous/CreditCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/inner/Annonymous/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/inner/Annonymous/ShoopingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/inner/Annonymous/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/inner/staticClass/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/inner/staticClass/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/innerClasses/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/innerClasses/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/innerWithoutClasses/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/innerWithoutClasses/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/innerWithoutClasses/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/interfacedemo/ABC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/interfacedemo/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/interfacedemo/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/interfacedemo/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/interfacedemo/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/methods/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/methods/CatTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/methods/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/methods/FactorialRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/methods/Prime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/methods/Prime1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/methods/Recursion1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/methods/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/methods/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/methods/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/Inheritance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/Inheritance/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/Inheritance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/Inheritance/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/Inheritance/human/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/Inheritance/human/GrandParent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/Inheritance/human/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/Inheritance/human/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/abstrcation/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/abstrcation/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/abstrcation/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/abstrcation/Rohit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/abstrcation/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/abstrcation/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/abstrcation/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/encapsulation/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/encapsulation/BankTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/encapsulation/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/encapsulation/Over.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/encapsulation/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/modifiers/School.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/modifiers/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/modifiers/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/modifiers/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/MethodHiding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/dout/Case1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/dout/Case2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/dout/Case3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/dout/Case4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/dout/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/methodOverloading/Case1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/methodOverloading/Case2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/methodOverloading/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/methodOverrding/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/methodOverrding/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/methodOverrding/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/methodOverrding/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/oops/polymorphism/methodOverrding/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/pratice/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/pratice/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/pratice/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/in/pratice/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/exception/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/in.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/interfacedemo/ABC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/interfacedemo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/interfacedemo/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/interfacedemo/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/interfacedemo/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/methods/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/methods/CatTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/methods/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/methods/FactorialRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/methods/Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/methods/Prime1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/methods/Recursion1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/methods/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/methods/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/methods/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Inheritance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Inheritance/Child1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Inheritance/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Inheritance/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Inheritance/GrandParent1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Inheritance/Parent1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Inheritance/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Inheritance/human/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Inheritance/human/GrandParent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Inheritance/human/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Inheritance/human/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/abstrcation/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/abstrcation/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/abstrcation/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/abstrcation/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/abstrcation/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/abstrcation/Rohit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/abstrcation/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/abstrcation/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/abstrcation/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/encapsulation/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/encapsulation/BankTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/encapsulation/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/encapsulation/Over.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/encapsulation/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/modifiers/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/modifiers/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/modifiers/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/modifiers/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/Child1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/MethodHiding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/Parent1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Case1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Case2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Case3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Case4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Child1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Child3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Parent1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Parent3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/dout/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/methodOverloading/Case1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/methodOverloading/Case2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/methodOverloading/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/methodOverrding/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/methodOverrding/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/methodOverrding/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/methodOverrding/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/oops/polymorphism/methodOverrding/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/pratice/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/OOPS/in/pratice/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/exception/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/exception/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/exception/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/exception/custom/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/in.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/methods/Prime1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/methods/Prime1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/oops/abstrcation/Rohit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/oops/abstrcation/Rohit.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Rohitgade14"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Rohitgade14/OOPS.git",
+    "accountId": "bfb1dd2b-e76a-424e-b352-c4d4bd4e4420"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="32596kIygjNbnDZsX8RPtCDuQuY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/BackEnd/OOPS"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34b97cce-bbd4-4a5c-a1d9-59d8dae2c92f" name="Changes" comment="" />
+      <created>1756699393388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756699393388</updated>
+    </task>
+    <servers />
+  </component>
+</project>
